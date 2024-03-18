@@ -1,2 +1,2 @@
 # Сайт туристического агенства Tyrist-Pro
-## Посмотрите по [ссылке](https://nedovodeevroman.github.io/Tyrist_Pro/)
+## Сайт разработан в учебных целях, посмотрите по [ссылке](https://nedovodeevroman.github.io/Tyrist_Pro/)
